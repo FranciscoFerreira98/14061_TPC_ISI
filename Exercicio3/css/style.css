@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.backRoxo{
+    background-color: #6B56FD;
+}
+.dropd{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #ffffff;
+    background-color: #6b56fd;
+    background-clip: padding-box;
+    border: 0px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.tempPrincipal{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #ffffff;
+}
+.textCenter{
+    text-align: center;
+}
+.marginTop{
+    margin-top: 3%;
+}
+.posiAbs{
+    position: absolute;
+}
+.btnBlack{
+    border-bottom: 2px solid black;
+    border-radius: 0px;
+}
+.dropd:focus {
+    color: #ffffff;
+    background-color: #6b56fd;
+    border-color: #6b56fd;
+    outline: 0;
+    box-shadow: 0rem 0 0 0.2rem rgb(0 0 0 / 16%);
+}
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 34%;
+  }
+.maxTemp{
+    color: #ff2f00;
+}
+.minTemp{
+    color: #0066ff;
+}
