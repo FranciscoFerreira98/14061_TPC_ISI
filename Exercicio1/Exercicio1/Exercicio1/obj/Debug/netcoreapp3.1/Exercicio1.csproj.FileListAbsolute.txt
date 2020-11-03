@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CopyComplete
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\franc\Desktop\Escola\Exercicio1\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
